@@ -1,6 +1,7 @@
 !_posts
+!_layouts
 
-!404.html
+!*.html
 !_config.yml
 !*.md
 !*.markdown
