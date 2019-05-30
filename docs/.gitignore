@@ -1,0 +1,8 @@
+!_posts
+
+!404.html
+!_config.yml
+!*.md
+!*.markdown
+!Gemfile
+!Gemfile.lock
